@@ -3,7 +3,7 @@ import pandas as pd
 import pydeck as pdk
 import matplotlib.pyplot as plt
 import os
-pip install matplotlib 
+
 
 # Set page configuration
 st.set_page_config(page_title="Boston Blue Bikes Data Explorer", layout="wide")
